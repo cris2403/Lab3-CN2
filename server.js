@@ -28,8 +28,8 @@ const server = http.createServer((req, res) => {
         <body>
             <div class="container">
                 <h1>✅ Laboratório 3 - Concluído!</h1>
-                <p>A minha Web App Node.js está a funcionar no Azure!</p>
-                <p>Alteração feita no VS Code e deploy automático via GitHub Actions.</p>
+                <p>Laboratório 3 - Cristiano Ferreira </p>
+                <p>Nº2022040 - Engenharia Informática</p>
                 <hr>
                 <small>Azure App Service + GitHub CI/CD</small>
             </div>
